@@ -22,6 +22,7 @@ namespace WpfOOP12
     /// </summary>
     public partial class MainWindow : Window
     {
+        //стандарт
         private double x0 = -5;                         
         private double xk = 5;
         private double delta = 0.5;
